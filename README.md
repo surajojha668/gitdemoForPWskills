@@ -1,2 +1,0 @@
-# gitdemoForPWskills
-created for demo
